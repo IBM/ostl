@@ -1,0 +1,10 @@
+name: Test
+channels:
+  - defaults
+dependencies:
+  - python=3.7.3
+  - tensorflow=1.13.1
+  - numpy=1.19.*
+  - scipy=1.6.*
+  - matplotlib
+  - jupyter
