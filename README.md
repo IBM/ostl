@@ -9,3 +9,6 @@ Please run
 foo@bar:~$ conda env create -f OSTL_Anaconda_Env.yml
 ```
 to install the environment
+
+## Feedback
+If you have feedback or want to contribute to the code base, please feel free to open Issues or Pull Requests via GIT directly.
